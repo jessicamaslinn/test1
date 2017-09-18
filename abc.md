@@ -3,7 +3,3 @@
 ### apple
 
 this is a pen http://www.ndhu.edu.tw
-
-*first
-   *abjad
-*second
